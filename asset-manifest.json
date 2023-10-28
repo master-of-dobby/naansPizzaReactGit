@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/naansPizzaReactGit/static/css/main.844d75ed.css",
+    "main.js": "/naansPizzaReactGit/static/js/main.0a97c0df.js",
+    "static/js/787.49ab09fc.chunk.js": "/naansPizzaReactGit/static/js/787.49ab09fc.chunk.js",
+    "static/media/pizzaLeft.jpg": "/naansPizzaReactGit/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/naansPizzaReactGit/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/naansPizzaReactGit/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/naansPizzaReactGit/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/naansPizzaReactGit/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/naansPizzaReactGit/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/naansPizzaReactGit/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/naansPizzaReactGit/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/naansPizzaReactGit/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/naansPizzaReactGit/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/naansPizzaReactGit/index.html",
+    "main.844d75ed.css.map": "/naansPizzaReactGit/static/css/main.844d75ed.css.map",
+    "main.0a97c0df.js.map": "/naansPizzaReactGit/static/js/main.0a97c0df.js.map",
+    "787.49ab09fc.chunk.js.map": "/naansPizzaReactGit/static/js/787.49ab09fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.844d75ed.css",
+    "static/js/main.0a97c0df.js"
+  ]
+}
